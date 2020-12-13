@@ -1,6 +1,6 @@
 # HP-430-G3-opencore
 
-OpenCore setup for running Hackintosh on HP ProBook 430 G3
+OpenCore 0.6.4 setup for running Hackintosh on HP ProBook 430 G3
 
 ### Laptop Specifications:
 - Intel Core i5 6200U CPU (Skylake)
@@ -56,6 +56,6 @@ OpenCore setup for running Hackintosh on HP ProBook 430 G3
 ### What doesn't work:
 - FingerPrint Reader
 - SD Card Reader
-- Built-in mic
-- Integrated Camera
-- Bluetooth and AirDrop(Not replaced Wireless network card
+- Built-in mic (Not tested)
+- Integrated Camera (Not tested)
+- Bluetooth and AirDrop (Not replaced Wireless network card)
