@@ -43,7 +43,7 @@ OpenCore 0.6.4 setup for running Hackintosh on HP ProBook 430 G3
 - Brightness Control Hotkeys
 - Audio Control Hotkeys
 - HDMI Video and Audio
-- Native Wifi and Ethernet
+- Native Ethernet
 - Bluetooth and AirDrop
 - Native audio with AppleALC, including headphone
 - Built-in mic
@@ -58,4 +58,4 @@ OpenCore 0.6.4 setup for running Hackintosh on HP ProBook 430 G3
 ### What doesn't work:
 - FingerPrint Reader
 - SD Card Reader
-- Bluetooth and AirDrop (Not replaced Wireless network card)
+- Bluetooth,Native Wifi,and AirDrop (Not replaced Wireless network card)
