@@ -1,5 +1,7 @@
 # HP-430-G3-opencore
 
+![](hackintosh-laptop.png)
+
 OpenCore 0.6.4 setup for running Hackintosh on HP ProBook 430 G3
 
 ### Laptop Specifications:
