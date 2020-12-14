@@ -49,6 +49,7 @@ OpenCore 0.6.4 setup for running Hackintosh on HP ProBook 430 G3
 - Built-in mic
 - Native power management
 - Battery status
+- Integrated Camera
 - USB 3.0 Ports
 - Ethernet
 - Audio on internal speaker and headphone
@@ -57,5 +58,4 @@ OpenCore 0.6.4 setup for running Hackintosh on HP ProBook 430 G3
 ### What doesn't work:
 - FingerPrint Reader
 - SD Card Reader
-- Integrated Camera (I don't need it)
 - Bluetooth and AirDrop (Not replaced Wireless network card)
