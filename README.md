@@ -1,8 +1,17 @@
 # HP-430-G3-opencore
 
+[![macOS](https://img.shields.io/badge/macOS-10.15.7-orange)](https://www.apple.com/macos/big-sur/)
+
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.4-9cf)](https://dortania.github.io/OpenCore-Install-Guide/)
+
+
+
+For Big sur Click Here](https://github.com/ryzenthreadripper9453/HP_430_G3_Opencore_for_Big_Sur)
+
 ![](hackintosh-laptop.png)
 
 OpenCore 0.6.4 setup for running Hackintosh on HP ProBook 430 G3
+
 
 ### Laptop Specifications:
 - Intel Core i5 6200U CPU (Skylake)
