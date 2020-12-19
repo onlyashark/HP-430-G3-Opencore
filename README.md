@@ -6,7 +6,7 @@
 
 
 
-For Big sur Click Here](https://github.com/ryzenthreadripper9453/HP_430_G3_Opencore_for_Big_Sur)
+For Big sur [Click Here](https://github.com/ryzenthreadripper9453/HP_430_G3_Opencore_for_Big_Sur)
 
 ![](hackintosh-laptop.png)
 
