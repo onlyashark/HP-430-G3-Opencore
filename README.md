@@ -1,6 +1,6 @@
 # HP-430-G3-opencore
 
-[![macOS](https://img.shields.io/badge/macOS-10.15.7-orange)](https://www.apple.com/macos/big-sur/)
+[![macOS](https://img.shields.io/badge/macOS-10.15.7-orange)](https://www.apple.com/macos/catalina/)
 
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.6.4-9cf)](https://dortania.github.io/OpenCore-Install-Guide/)
 
