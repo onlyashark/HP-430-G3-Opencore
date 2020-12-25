@@ -68,3 +68,6 @@ OpenCore 0.6.4 setup for running Hackintosh on HP ProBook 430 G3
 - FingerPrint Reader
 - SD Card Reader
 - Bluetooth,Native Wifi,and AirDrop (Not replaced Wireless network card)
+
+### Warning
+- System time will be reset to 1999/12/31 08:00
