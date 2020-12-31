@@ -1,4 +1,4 @@
-# HP-430-G3-opencore
+# HP-430-G3-Opencore
 
 [![macOS](https://img.shields.io/badge/macOS-10.15.7-orange)](https://www.apple.com/macos/catalina/)
 
